@@ -40,7 +40,7 @@ async def change_activity():
     game = iter(
         [
             "discord.py v2.4 | Python v3.12",
-            "/help | V0.1.3 Beta",
+            "/help | V0.1.6",
             "Ayakas privater Bot!",
         ]
     )  # Every line above ^^ is one new status the bot can have

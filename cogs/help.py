@@ -54,6 +54,9 @@ class HelpCommand(commands.Cog):
                                               "einem Embed zurück.\n"
                                               "<:Platzhalter:1262407815750877267>",
                                   color=discord.Color.from_rgb(155, 66, 245))
+            embed.set_image(url="https://cdn.discordapp.com/attachments/1111005524591398983/1285605099212902411"
+                                "/informationen.png?ex=66eae08d&is=66e98f0d&hm"
+                                "=758518310354ecf7d8928e330cac05213f50d2d0ba4c269831f0f91f4bd7cbad&")
             embed.set_footer(text="Ayakas Gruft ♡ https://discord.gg/vPJ8Jsv7",
                              icon_url="https://cdn.discordapp.com/attachments/1111005524591398983/1285149342872633407"
                                       "/0c330bf689777f2437ecc889a7154929_1.gif?ex=66e93818&is=66e7e698&hm"
